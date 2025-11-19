@@ -1,0 +1,14 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect fill="#10b981" width="180" height="180" rx="40" />
+  <!-- Chat bubble with tail -->
+  <g transform="translate(90, 90)">
+    <!-- Main bubble body -->
+    <rect fill="white" x="-45" y="-35" width="90" height="60" rx="12" />
+    <!-- Chat bubble tail -->
+    <path fill="white" d="M -35 25 L -35 35 L -25 25 Z" />
+    <!-- Message lines -->
+    <rect fill="#10b981" x="-35" y="-20" width="50" height="4" rx="2" />
+    <rect fill="#10b981" x="-35" y="-8" width="70" height="4" rx="2" />
+    <rect fill="#10b981" x="-35" y="4" width="60" height="4" rx="2" />
+  </g>
+</svg>
