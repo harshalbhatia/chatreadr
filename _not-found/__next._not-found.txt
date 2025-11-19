@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
 2:I[23493,["/chatreadr/_next/static/chunks/f1e68980346fa22d.js","/chatreadr/_next/static/chunks/c7a3e2a16a5e810a.js"],"default"]
 3:I[26043,["/chatreadr/_next/static/chunks/f1e68980346fa22d.js","/chatreadr/_next/static/chunks/c7a3e2a16a5e810a.js"],"default"]
-0:{"buildId":"G-pWlaF4JhR3bCqKlLN8D","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"xRZZLscKdnzS44s4ijlS_","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
